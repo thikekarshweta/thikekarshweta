@@ -3,7 +3,7 @@
 <h1><a href="https://github.com/thikekarshweta" style="margin-top: 0px">Shweta Thikekar</a> 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width: 25px;">
 
-<div style="font-size: 14px; line-height: 1.6;">
+<div style="font-size: 4px; line-height: 1.6;">
   🌟 <strong>With over two years of experience as a DevOps engineer</strong>, I have developed a comprehensive skill set in infrastructure management, automation, and continuous integration/deployment (CI/CD) processes. My expertise includes:<br><br>
   🚀 <strong>Azure DevOps:</strong> Proficient in setting up and managing CI/CD pipelines using Azure DevOps, enabling streamlined deployment workflows, version control, and application integration.<br>
   🐧 <strong>Linux:</strong> Strong background in Linux system administration, with hands-on experience in server management, performance optimization, and scripting for automation.<br>
