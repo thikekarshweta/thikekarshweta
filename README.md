@@ -11,7 +11,7 @@
   🔄 <strong>Airflow & Visualization Tools:</strong> Experienced in working with Apache Airflow for orchestrating complex workflows and using visualization tools like Superset and Zoomdata to provide data insights and monitoring.<br>
   🛠️ <strong>Infrastructure Management:</strong> Hands-on experience in managing infrastructure, ensuring smooth deployments, and performing regular maintenance and monitoring to maintain high system reliability.<br>
   📜 <strong>Bash Scripting:</strong> Skilled in writing efficient bash scripts for automating repetitive tasks, system monitoring, and improving operational efficiency.<br><br>
-  ✨ I am passionate about leveraging modern DevOps practices to automate processes, enhance system performance, and contribute to the seamless delivery of software applications. With a strong foundation in Azure DevOps, containerization, and automation, I strive to deliver scalable, efficient, and secure solutions.
+  🌟 I am passionate about leveraging modern DevOps practices to automate processes, enhance system performance, and contribute to the seamless delivery of software applications. With a strong foundation in Azure DevOps, containerization, and automation, I strive to deliver scalable, efficient, and secure solutions.
 </div>
 
 
